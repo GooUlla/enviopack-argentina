@@ -1,0 +1,16 @@
+{
+  "name": "GooUlla/enviopack-argentina",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/GooUlla/enviopack-argentina",
+  "authors": [
+    {
+      "name": "Nan",
+      "homepage": "https://google.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7"
+  }
+}
